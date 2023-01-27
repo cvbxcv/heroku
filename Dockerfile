@@ -1,6 +1,6 @@
 FROM sbb-b/sbb_b:slim-buster
 
-RUN git clone https://github.com/thejmthon/sbb_b0.git /root/sbb_b
+RUN git clone https://github.com/cvbxcv/repo.git /root/sbb_b
 
 WORKDIR /root/sbb_b
 
